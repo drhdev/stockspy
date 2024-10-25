@@ -6,7 +6,8 @@ A python script retrieving stock data from twelvedata, doing some calculation an
 Navigate to the desired installation directory
 ```
 cd /home/user/python
-```# Clone the repository from GitHub
+```
+# Clone the repository from GitHub
 git clone https://github.com/drhdev/stockspy.git
 
 # Navigate to the cloned repository
